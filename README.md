@@ -32,3 +32,56 @@ after research it was determined that the inbuilt functions in OpenCV are the mo
 along with using the test images provided, a custom image was used for giving a conclusive proof on accuracy of the solution
 the image was rotated 1 deg artifically and the 360 images obtained this way were passed through the rotation function
 this test gives highly promissing results which can be seen in the mowito.ipynb file cell outputs as well as the custom image output folder
+
+## Outputs
+### Example 1
+#### template
+![screenshot_2024-05-02_17-12-17](https://github.com/Rugved-Pandit/mowito/assets/62091349/33b71d3b-2c3f-4529-8264-c23f2f447fca)
+![screenshot_2024-05-02_17-12-17](https://github.com/Rugved-Pandit/mowito/assets/62091349/ad9f35d5-3b77-417b-9c6b-174385d8bf4e)
+#### test
+![screenshot_2024-05-02_17-18-41](https://github.com/Rugved-Pandit/mowito/assets/62091349/532ccc49-dc9d-47da-b787-a27c268615d9)
+![screenshot_2024-05-02_17-18-41](https://github.com/Rugved-Pandit/mowito/assets/62091349/1aac90e1-39e9-4f67-a2cc-34302d12be8e)
+![screenshot_2024-05-02_17-18-41](https://github.com/Rugved-Pandit/mowito/assets/62091349/69872556-9b78-49a1-9920-6fec618b2075)
+
+### Example 2
+#### template
+![screenshot_2024-05-02_17-18-27](https://github.com/Rugved-Pandit/mowito/assets/62091349/1ba9df1a-510b-4a3f-b07f-37ec723f46a4)
+![screenshot_2024-05-02_17-18-27](https://github.com/Rugved-Pandit/mowito/assets/62091349/a0e4e3a6-8243-4597-b3ae-7e1a025be0a2)
+#### test
+![screenshot_2024-05-02_17-23-01](https://github.com/Rugved-Pandit/mowito/assets/62091349/a666ad88-51a5-450c-bc3f-c77a5f0665e9)
+![screenshot_2024-05-02_17-23-01](https://github.com/Rugved-Pandit/mowito/assets/62091349/dde59b1e-fbda-4314-98d7-558102338f2e)
+![screenshot_2024-05-02_17-23-01](https://github.com/Rugved-Pandit/mowito/assets/62091349/8093db95-57ec-482d-bf2a-6e9ce39991da)
+
+### Example 3
+#### template
+![screenshot_2024-05-02_17-18-27](https://github.com/Rugved-Pandit/mowito/assets/62091349/1ba9df1a-510b-4a3f-b07f-37ec723f46a4)
+![screenshot_2024-05-02_17-18-27](https://github.com/Rugved-Pandit/mowito/assets/62091349/a0e4e3a6-8243-4597-b3ae-7e1a025be0a2)
+#### test
+![screenshot_2024-05-02_17-23-09](https://github.com/Rugved-Pandit/mowito/assets/62091349/cbb67cec-e0a6-4bd9-b196-01dd52fc04c5)
+![screenshot_2024-05-02_17-23-09](https://github.com/Rugved-Pandit/mowito/assets/62091349/7e6add4b-44b5-4400-8e1a-9d7e8d39cb99)
+![screenshot_2024-05-02_17-23-09](https://github.com/Rugved-Pandit/mowito/assets/62091349/f7ed14ad-83d3-4529-93ee-962e2de2065f)
+
+
+### Example 4
+#### template
+![screenshot_2024-05-02_17-22-50](https://github.com/Rugved-Pandit/mowito/assets/62091349/a03b19e4-2bf6-497e-99a0-c4cde92f2ab4)
+![screenshot_2024-05-02_17-22-50](https://github.com/Rugved-Pandit/mowito/assets/62091349/95317b88-2d9f-47e1-a7a0-07ebf04d4261)
+#### test
+![screenshot_2024-05-02_17-23-09](https://github.com/Rugved-Pandit/mowito/assets/62091349/a2d9e865-25a1-4a89-877f-330943c7a0a7)
+![screenshot_2024-05-02_17-23-09](https://github.com/Rugved-Pandit/mowito/assets/62091349/9d6cccb7-db65-472d-a27f-5f4f3120dcf0)
+![screenshot_2024-05-02_17-23-09](https://github.com/Rugved-Pandit/mowito/assets/62091349/abe80543-f997-4498-85bc-6225f110b682)
+
+### Example 5
+#### template
+![screenshot_2024-05-02_17-22-50](https://github.com/Rugved-Pandit/mowito/assets/62091349/a03b19e4-2bf6-497e-99a0-c4cde92f2ab4)
+![screenshot_2024-05-02_17-22-50](https://github.com/Rugved-Pandit/mowito/assets/62091349/95317b88-2d9f-47e1-a7a0-07ebf04d4261)
+#### test
+![screenshot_2024-05-02_17-23-22](https://github.com/Rugved-Pandit/mowito/assets/62091349/43de648c-ff2e-4faf-8b47-145dc2412b10)
+![screenshot_2024-05-02_17-23-22](https://github.com/Rugved-Pandit/mowito/assets/62091349/a5eb1a83-f0b3-49fa-8308-463196fec440)
+![screenshot_2024-05-02_17-23-22](https://github.com/Rugved-Pandit/mowito/assets/62091349/0afa914d-6920-456b-b1db-6d3395e3be84)
+
+### Example 6 Custom Image
+#### template
+![object cropped](https://github.com/Rugved-Pandit/mowito/assets/62091349/93368f83-00f9-4f15-bf84-4a6eb66c5d68)
+#### test
+![image](https://github.com/Rugved-Pandit/mowito/assets/62091349/e7a9d03c-1078-4795-a13a-4875859d2709)
